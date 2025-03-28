@@ -1,0 +1,45 @@
+Witamy w grze Makao!
+
+Makao to gra karciana, w której gracze starają się pozbyć wszystkich swoich kart, zagrywając je na stos kart odrzuconych,
+dopasowując do rangi lub koloru karty na wierzchu stosu.
+
+---Oto zasady i instrukcje:---
+
+1) Przygotowanie Gry
+
+1. **Gracze**: Gra może być rozgrywana przez 2-4 graczy.
+2. **Talia**: Używana jest standardowa talia 52 kart.
+3. **Rozdanie**: Każdy gracz otrzymuje 5 kart. Pozostałe karty tworzą stos do dobierania.
+
+2) Cel Gry
+
+Celem jest być pierwszym graczem, który pozbędzie się wszystkich swoich kart.
+
+3) Przebieg Gry
+
+1. <<Rozpoczęcie Gry>>: Pierwsza karta z talii jest kładziona odkryta na środku i rozpoczyna stos kart odrzuconych.
+2. <<Tury>>: Gracze wykonują swoje tury zgodnie z ruchem wskazówek zegara.
+
+4) Rozgrywanie Tury
+
+1. <<Zagranie Karty>>: W swojej turze gracz musi zagrać kartę z ręki, która pasuje rangą lub kolorem do karty na wierzchu stosu kart odrzuconych.
+2. <<Specjalne Karty>>:
+    - 2: Zmusza następnego gracza do dobrania 2 kart.
+    - 3: Zmusza następnego gracza do dobrania 3 kart.
+    - 4: Blokuje turę następnego gracza.
+    - J (Walet): Możesz zażądać określonej rangi od pozostałych graczy (sam potem musisz ją położyć).
+    - Q (Dama): Może być zagrana na dowolną kartę oraz na nią zagrana dowolna karta.
+    - K (Król) {Kier/ Pik}: Zmusza następnego gracza do dobrania 5 kart.
+    - A (As): Zmienia bieżący kolor na dowolny wybrany kolor.
+
+3. <<Dobieranie Kart>>: Jeśli nie możesz zagrać żadnej karty, musisz dobrać kartę z talii do dobierania.
+   Jeśli dobrana karta może być zagrana, możesz ją zagrać natychmiast; w przeciwnym razie twoja tura się kończy.
+4. <<Zakończenie Tury>>: Twoja tura kończy się, gdy zagrasz kartę lub dobierzesz kartę, której nie możesz natychmiast zagrać.
+    Gdy dobrałeś karty (w wyniku kart 2,3 lub K) kończy się twoja tura.
+
+### Specjalne Zasady ###
+
+1. <<Wiele Specjalnych Kart>>: Jeśli zagrasz specjalną kartę (2, 3, K), efekty się sumują.
+    Na przykład, jeśli zostanie zagrana '2' i następny gracz również zagra '2', kolejny gracz musi dobrać 4 karty.
+
+Baw się dobrze i ciesz się grą!
